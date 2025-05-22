@@ -1,1 +1,6 @@
 listen-http: ":80"
+base-url: "https://dbserver-t82s.onrender.com"
+cache-file: "/tmp/cache.db"
+attachment-cache-dir: "/tmp/attachments"
+enable-attachments: true
+enable-signing: true
