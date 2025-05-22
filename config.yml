@@ -1,3 +1,2 @@
 listen-http: ":80"
 cache-file: "/var/cache/ntfy/cache.db"
-attachment-cache-dir: "/var/cache/ntfy/attachments"
