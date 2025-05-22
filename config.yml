@@ -1,0 +1,8 @@
+server:
+  listen: ":8080"
+  max_body_size: 50MB  # ขนาดไฟล์อัปโหลดสูงสุด
+
+# ตัวอย่าง Topics (ถ้าอยากล็อกบางหัวข้อ)
+topics:
+  example:
+    max_message_size: 10MB
